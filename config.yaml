@@ -1,0 +1,10 @@
+
+path: \Users\t-hishfaq\Desktop\yolomodel
+train: images\train
+val: images\train
+
+names:
+  0: Obstacles
+  1: Human
+  2: Vehicles
+  3: Hand
